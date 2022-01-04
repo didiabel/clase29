@@ -1,0 +1,7 @@
+.contenido{
+    display: flex;
+    float: left;
+}
+.todo{
+    font-family: 'Roboto', sans-serif;
+}

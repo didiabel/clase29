@@ -1,0 +1,16 @@
+*{font-family: 'Roboto', sans-serif;
+}
+.listaa{display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.all{
+    text-align: center;
+     background-color: cadetblue;
+    }
+.container { 
+    
+    background-color: burlywood;
+    height: 20000px;
+}
